@@ -1,0 +1,4 @@
+O objetivo do projeto foi criar uma solução computacional capaz de organizar informações de forma prática e eficiente, permitindo cadastrar usuários com diferentes perfis, registrar projetos com datas, status e gerente responsável, além de montar equipes vinculando membros e projetos.
+Durante o desenvolvimento, enfrentei desafios como correção de erros no cadastro, ajustes no formato das datas e integração entre as classes do sistema. Esses problemas foram resolvidos com melhorias no código, validações e organização da estrutura em programação orientada a objetos.
+Como resultado, entreguei um sistema funcional, estável e alinhado aos requisitos propostos, o que contribuiu muito para ampliar meu aprendizado em Java, lógica de programação e resolução de problemas.
+Esse projeto foi importante para fortalecer minhas habilidades práticas no desenvolvimento de software e mostrar como a tecnologia pode transformar processos organizacionais em soluções eficientes.
